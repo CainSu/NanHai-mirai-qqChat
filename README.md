@@ -55,4 +55,13 @@
     
     如果输入无任何反应就是没有安装chat-command或没有权限 安装chat-command或增加权限即可
 
-剩下的在写啦
+**可使用命令**
+
+|  命令   | 使用方式  | 解释 |
+|  ----  | ----  | ---- |
+| /start  | /start | 开启私信聊天模式 |
+| /end  | /end | 结束聊天模式 |
+| /xr | /xr 你好啊 你好 | 写入对话库 |
+| /sc | /sc only 你好啊 你好 | 删除对话 |
+| /xg | /xg receive 你好啊 你好 嗨 | 修改对话 |
+| /mysql | /mysql select "select * from qqChat" | 可自己对数据库进行操作 |
