@@ -28,9 +28,9 @@
     
     在表单中先插入两条数据
     
-    mysql>insert into mysqlOwner values (自己的QQ,自己的QQ,'administrator')
+    mysql>insert into mysqlOwner values (自己的QQ,自己的QQ,'administrator');
     
-    mysql>insert into qqChatowner values (自己的QQ,自己的QQ,'administrator')
+    mysql>insert into qqChatowner values (自己的QQ,自己的QQ,'administrator');
     
 
 ###3.
