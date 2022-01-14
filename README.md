@@ -1,12 +1,12 @@
-#**使用方式**
+**使用方式**
 
-###1.
+1.
 
     在Release下载最新版jar
     
     放置在Mirai目录的plugins文件下
 
-###2.
+2.
 
     下载并安装MySQL数据库,版本8.0以上,并配置好账号密码
     
@@ -33,7 +33,7 @@
     mysql>insert into qqChatowner values (自己的QQ,自己的QQ,'administrator');
     
 
-###3.
+3.
 
     先运行一次Mirai 然后stop
     
