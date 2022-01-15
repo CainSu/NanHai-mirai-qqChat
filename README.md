@@ -32,6 +32,10 @@
     
     mysql>insert into qqChatowner values (自己的QQ,自己的QQ,'administrator');
     
+    建错表可使用delete删除
+    
+    mysql>delete from 表单;
+    
 
 3.
 
