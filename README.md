@@ -22,7 +22,7 @@
     
     mysql>create table qqChat (id varchar(20), receive varchar(100), seed varchar(100));
     
-    mysql>create table qqChatOwner (id bigint, grantor bigint, permission varchar(10));
+    mysql>create table qqChatOwner (id bigint, grantor bigint, permission varchar(15));
     
     mysql>create table mysqlOwner (id bigint, grantor bigint, permission varchar(15));
     
