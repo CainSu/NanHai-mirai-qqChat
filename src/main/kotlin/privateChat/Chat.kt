@@ -30,7 +30,7 @@ public class Chat(
             if (checkPermission("qqChatOwner") == 0) {
                 val temp = SimpleDateFormat("HH").format(Date()).toInt()
                 if (temp in 22..24) {
-                    player.sendMessage("晚安啦，宝贝")
+                    player.sendMessage("晚安啦")
                 }
                 chat.cancel()
             }
